@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch EjemploBibliotecas",
+            "request": "launch",
+            "mainClass": "upb.ea.ea01_ADT.EjemploBibliotecas",
+            "projectName": "Ejercicios-EstructurasAlgoritmos-Java_ac3ecc68"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContadorCliente",
+            "request": "launch",
+            "mainClass": "upb.ea.ea01_ADT.ContadorCliente",
+            "projectName": "Ejercicios-EstructurasAlgoritmos-Java_ac3ecc68"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContadorCliente",
+            "request": "launch",
+            "mainClass": "ContadorCliente",
+            "projectName": "Ejercicios-EstructurasAlgoritmos-Java_ac3ecc68"
+        }
+    ]
+}
